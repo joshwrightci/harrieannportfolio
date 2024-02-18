@@ -12,7 +12,6 @@ body {
     text-align: justify;
 }
 
-
 .jumbotron {
     background-color: #007bff;
     color: white;
@@ -20,8 +19,17 @@ body {
     text-align: center;
 }
 
+.portfolio-section {
+    padding: 80px 0;
+}
+
 .portfolio-item {
     margin-bottom: 30px;
+}
+
+.project-link {
+    text-decoration: none;
+    color: inherit;
 }
 
 .contact-section {
